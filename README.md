@@ -1,2 +1,2 @@
-# Calcultor
-Calculator using c sharp
+# calculator
+calculator using c sharp
